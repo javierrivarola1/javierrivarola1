@@ -30,7 +30,7 @@ Hi! My name is Javier Rivarola.
 
 
 
-## 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with me
 
 <p align="center">
 
