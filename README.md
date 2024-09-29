@@ -6,7 +6,7 @@ Hi! My name is Javier Rivarola.
 🌱 &nbsp;Target: Frontend/QA.\
 ✍️ &nbsp;AI enthusiast.\
 💬 &nbsp;Usually all my projects are in Spanish.\
-✉️ &nbsp;You can send me an email to nacho.rivarola@hotmail.com!
+✉️ &nbsp;You can send me an email to javierignaciorivarola@gmail.com!
 
 
 
