@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! My name is Javier Rivarola.
+Hi! My name is Javier Ignacio Rivarola.
 
 💡 &nbsp; I like to solve problems and create new things by programming.\
 🌱 &nbsp;Target: QA Analyst.\
