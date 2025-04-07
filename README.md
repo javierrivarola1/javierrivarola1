@@ -3,7 +3,7 @@
 Hi! My name is Javier Rivarola.
 
 💡 &nbsp; I like to solve problems and create new things by programming.\
-🌱 &nbsp;Target: Frontend/QA.\
+🌱 &nbsp;Target: QA Analyst.\
 ✍️ &nbsp;AI enthusiast.\
 💬 &nbsp;Usually all my projects are in Spanish.\
 ✉️ &nbsp;You can send me an email to javierignaciorivarola@gmail.com!
@@ -16,8 +16,6 @@ Hi! My name is Javier Rivarola.
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
