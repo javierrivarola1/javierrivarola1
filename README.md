@@ -13,16 +13,16 @@ Hi! My name is Javier Ignacio Rivarola.
 ## 🛠 &nbsp;Tech Stack
 
 
-![HTML]
-![CSS]
-![JavaScript]
-![Bootstrap]
-![MaterialUI]
-![Visual Studio Code]
-![GitHub]
-![Git]
-![GitLab]
-![Java]
+### [HTML]
+### [CSS]
+### [JavaScript]
+### [Bootstrap]
+### [MaterialUI]
+### [Visual Studio Code]
+### [GitHub]
+### [Git]
+### [GitLab]
+### [Java]
 
 
 
