@@ -18,7 +18,6 @@ Hi! My name is Javier Ignacio Rivarola.
 ### [JavaScript]
 ### [Bootstrap]
 ### [MaterialUI]
-### [Visual Studio Code]
 ### [GitHub]
 ### [Git]
 ### [GitLab]
