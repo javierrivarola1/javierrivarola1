@@ -18,6 +18,8 @@ Hi! My name is Javier Ignacio Rivarola.
 ### [JavaScript]
 ### [Bootstrap]
 ### [MaterialUI]
+### [MySQL]
+### [PHP]
 ### [GitHub]
 ### [Git]
 ### [GitLab]
@@ -35,3 +37,4 @@ Hi! My name is Javier Ignacio Rivarola.
 <a href="mailto:javierignaciorivarola@gmail.com"><img src="https://img.shields.io/badge/-javierignaciorivarola@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <!---  <a href="poner mi sitio web"><img src="https://img.shields.io/badge/-OffLine.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>--->
 </p>
+
