@@ -7,10 +7,7 @@
 💬 &nbsp;Usually all my projects are in Spanish.\
 ✉️ &nbsp;You can send me an email to javierignaciorivarola@gmail.com!
 
-
-
 ## 🛠 &nbsp;Tech Stack
-
 
 ### [Selenium]
 ### [Cypress]
@@ -25,13 +22,6 @@
 ### [Git]
 ### [GitLab]
 ### [Java]
-
-
-
-<h1 align="center">Hola 👋, mi nombre es Javier Ignacio Rivarola</h1>
-<h3 align="center">Apasionado de la tecnología, estudiante de informática, siempre intentando ser un poco mejor que ayer.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javierrivarola1" alt="javierrivarola1" /></a> </p>
 
 ## 🤝🏻 &nbsp;Connect with me.
 
@@ -48,6 +38,7 @@
 <p> <img align="centro" src="https://github-readme-stats.vercel.app/api?username=javierrivarola1&show_icons=true&locale=es" alt="javierrivarola1" /></p>
 
 </p>
+
 
 
 
