@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, my name is Javier Ignacio Rivarola</h1>
+<h1 align="center">Hi 👋, my name is Javier Ignacio Rivarola</h1>
 <h3 align="center">Passionate about technology, a computer science student, always trying to be a little better than yesterday.</h3>
 
 💡 &nbsp; I like to solve problems and create new things by programming.\
@@ -23,6 +23,10 @@
 ### [GitLab]
 ### [Java]
 
+<p><img align="izquierda" src="https://github-readme-stats.vercel.app/api/top-langs?username=javierrivarola1&show_icons=true&locale=es&layout=compact" alt="javierrivarola1" /></p>
+
+<p> <img align="centro" src="https://github-readme-stats.vercel.app/api?username=javierrivarola1&show_icons=true&locale=es" alt="javierrivarola1" /></p>
+
 ## 🤝🏻 &nbsp;Connect with me.
 
 <p align="left">
@@ -33,11 +37,8 @@
 <!---  <a href="poner mi sitio web"><img src="https://img.shields.io/badge/-OffLine.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>--->
 </p>
 
-<p><img align="izquierda" src="https://github-readme-stats.vercel.app/api/top-langs?username=javierrivarola1&show_icons=true&locale=es&layout=compact" alt="javierrivarola1" /></p>
-
-<p> <img align="centro" src="https://github-readme-stats.vercel.app/api?username=javierrivarola1&show_icons=true&locale=es" alt="javierrivarola1" /></p>
-
 </p>
+
 
 
 
