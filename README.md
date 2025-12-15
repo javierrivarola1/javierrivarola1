@@ -5,7 +5,7 @@
 🌱 &nbsp;Target: QA Analyst.\
 ✍️ &nbsp;AI enthusiast.\
 💬 &nbsp;Usually all my projects are in Spanish.\
-✉️ &nbsp;You can send me an email to javierignaciorivarola@gmail.com!
+
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -38,6 +38,7 @@
 </p>
 
 </p>
+
 
 
 
