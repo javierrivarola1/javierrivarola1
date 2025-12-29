@@ -23,9 +23,6 @@
 ### [GitLab]
 ### [Java]
 
-<p><img align="izquierda" src="https://github-readme-stats.vercel.app/api/top-langs?username=javierrivarola1&show_icons=true&locale=es&layout=compact" alt="javierrivarola1" /></p>
-
-<p> <img align="centro" src="https://github-readme-stats.vercel.app/api?username=javierrivarola1&show_icons=true&locale=es" alt="javierrivarola1" /></p>
 
 ## 🤝🏻 &nbsp;Connect with me.
 
@@ -38,6 +35,7 @@
 </p>
 
 </p>
+
 
 
 
