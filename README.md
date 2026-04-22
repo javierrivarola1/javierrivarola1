@@ -14,6 +14,7 @@
 ### [HTML]
 ### [CSS]
 ### [JavaScript]
+### [React]
 ### [Bootstrap]
 ### [MySQL]
 ### [SQLServer]
