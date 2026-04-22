@@ -24,17 +24,17 @@
 ### [Java]
 
 
-## 🤝🏻 &nbsp;Connect with me.
+<div align="center">
 
-<p align="center">
-<a href="https://linkedin.com/in/javier ignacio rivarola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier ignacio rivarola" height="30" width="40" /></a>
-<a href="https://fb.com/javier ignacio rivarola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="javier ignacio rivarola" height="30" width="40" /></a>
-<a href="https://instagram.com/javier ignacio rivarola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javier ignacio rivarola" height="30" width="40" /></a>
-<a href="mailto:javierignaciorivarola@gmail.com"><img src="https://img.shields.io/badge/-javierignaciorivarola@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<!---  <a href="poner mi sitio web"><img src="https://img.shields.io/badge/-OffLine.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>--->
-</p>
+## 🤝 Conéctate conmigo
 
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-ignacio-rivarola/)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/javorivarola/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javierignaciorivarola@gmail.com)
+
+</div>
 
 
 
