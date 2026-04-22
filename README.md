@@ -26,7 +26,7 @@
 
 ## 🤝🏻 &nbsp;Connect with me.
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/javier ignacio rivarola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier ignacio rivarola" height="30" width="40" /></a>
 <a href="https://fb.com/javier ignacio rivarola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="javier ignacio rivarola" height="30" width="40" /></a>
 <a href="https://instagram.com/javier ignacio rivarola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javier ignacio rivarola" height="30" width="40" /></a>
